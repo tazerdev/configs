@@ -4,6 +4,6 @@
 
 ```wget https://raw.githubusercontent.com/tazerdev/configs/master/tmux/.tmux.conf```
 
-# PowerShell
+## PowerShell
 
 ```wget https://raw.githubusercontent.com/tazerdev/configs/master/PowerShell/Microsoft.PowerShell_profile.ps1```
